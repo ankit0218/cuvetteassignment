@@ -140,7 +140,7 @@ color: #ffffff;
 .left{
     
 position: absolute;
-margin-top: 42px;
+margin-top: 36px;
 justify-content: center;
 left: 190px;
 word-spacing: 2px;
@@ -154,7 +154,7 @@ color: #FFFFFF;
 
 .right{
 position: absolute;
-margin-top: 42px;
+margin-top: 36px;
 justify-content: center;
 right: 190px;
 word-spacing: 2px;
