@@ -1,11 +1,11 @@
 .main{
     background-color: #FFCD9E;
-    height: 65vh;
+    height: 70vh;
 }
 
 .footer{
     background-color: #000;
-    height: 35vh;
+    height: 30vh;
 }
 *{
     margin: 0;
